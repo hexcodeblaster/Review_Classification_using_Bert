@@ -1,0 +1,11 @@
+Table Reviews as R {
+  ProductId varchar2(20) 
+  UserId varchar2(20) 
+  ProfileName varchar2(30) 
+  HelpfulnessNumerator int
+  HelpfulnessDenominator int
+  Score int
+  Time timestamp
+  Summary varchar2(150)
+  Text varchar2(1000)
+}
