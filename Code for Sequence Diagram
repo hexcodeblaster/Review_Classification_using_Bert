@@ -1,0 +1,20 @@
+title Bert Model
+
+
+
+
+
+
+Raw Reviews->Preprocessed Reviews: Preprocessing
+
+Bert Model->Bert Model: from TFHub
+
+
+Preprocessed Reviews->Tokenized text: Full tokenization
+
+
+Bert Model->Bert Embeddings: pooled output
+
+
+Bert Embeddings->Neural Net: embedding word vectors
+
